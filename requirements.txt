@@ -1,0 +1,11 @@
+dash
+keras
+matplotlib
+numpy
+pandas
+plotly
+scikit-learn
+seaborn
+statsmodels
+tensorflow
+torch

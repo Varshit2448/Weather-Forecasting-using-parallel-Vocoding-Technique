@@ -1,0 +1,34 @@
+Baek, Yujin, and Ha Young Kim. "ModAugNet: A new forecasting framework for stock market index value with an overfitting prevention LSTM module and a prediction LSTM module." Expert Systems with Applications 113 (2018): 457-480.
+
+Ookura, Soichiro, and Hiroyuki Mori. "An efficient method for wind power generation forecasting by LSTM in consideration of overfitting prevention." IFAC-PapersOnLine 53.2 (2020): 12169-12174.
+
+Barreñada, L., Dhiman, P., Timmerman, D. et al. Understanding overfitting in random forest for probability estimation: a visualization and simulation study. Diagn Progn Res 8, 14 (2024). https://doi.org/10.1186/s41512-024-00177-1
+
+Y. Rimal, "Machine Learning Random Forest Cluster Analysis for Large Overfitting Data: using R Programming," 2019 6th International Conference on Computing for Sustainable Global Development (INDIACom), New Delhi, India, 2019, pp. 1265-1271. keywords: {Data Analytic;Machine Learning;Random Forest Overfitting},
+
+Wang, Xiaoqian, et al. "Distributed ARIMA models for ultra-long time series." International Journal of Forecasting 39.3 (2023): 1163-1184.
+
+Gold, Bernard, and L. Rabiner. "Parallel processing techniques for estimating pitch periods of speech in the time domain." The Journal of the Acoustical Society of America 46.2B (1969): 442-448.
+
+Kumar, Bhupendra, and Neha Yadav. "A novel hybrid model combining βSARMA and LSTM for time series forecasting." Applied Soft Computing 134 (2023): 110019.
+
+Mahmoud, Amal, and Ammar Mohammed. "Leveraging hybrid deep learning models for enhanced multivariate time series forecasting." Neural Processing Letters 56.5 (2024): 223.
+
+Kumar, Yogesh, et al. "Machine learning and deep learning based time series prediction and forecasting of ten nations’ COVID-19 pandemic." SN Computer Science 4.1 (2022): 91.
+
+Kumari, Surbhi, and Sunil Kumar Singh. "Machine learning-based time series models for effective CO2 emission prediction in India." Environmental Science and Pollution Research 30.55 (2023): 116601-116616.
+
+Oqaibi, Hadi, and Jatin Bedi. "A data decomposition and attention mechanism-based hybrid approach for electricity load forecasting." Complex & Intelligent Systems 10.3 (2024): 4103-4118.
+
+Tolun, Ömer Can, Kasım Zor, and Onder Tutsoy. "A comprehensive benchmark of machine learning-based algorithms for medium-term electric vehicle charging demand prediction." The Journal of Supercomputing 81.3 (2025): 475.
+
+Suaza-Medina, Mario E., et al. "Effects of data time lag in a decision-making system using machine learning for pork price prediction." Neural Computing and Applications 35.26 (2023): 19221-19233.
+
+Foroutan, Parisa, and Salim Lahmiri. "Deep learning systems for forecasting the prices of crude oil and precious metals." Financial Innovation 10.1 (2024): 111.
+
+
+
+
+
+
+
